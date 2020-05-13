@@ -1,2 +1,2 @@
 # BinsGenRH
-Una actualizacion de la script al 2.0
+Una actualizacion de la script al 3.0
